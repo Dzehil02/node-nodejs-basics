@@ -1,6 +1,6 @@
 import fs from 'fs';
 import { createHash } from 'crypto';
-import path, { join } from 'path';
+import path from 'path';
 import { fileURLToPath } from 'url';
 
 const __filename = fileURLToPath(import.meta.url);
